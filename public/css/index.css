@@ -3,7 +3,7 @@
     background: yellow;
 }
 
-.lesson-four-task-two .link:hover {
+.lesson-four-task-two .link:hover + h1  {
     background: green;
 }
 
